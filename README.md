@@ -66,3 +66,7 @@ QUESTION 9
 Find one other useful inference from the data that you feel Budweiser may be able to find value in.  You must convince them why it is important and back up your conviction with appropriate statistical evidence.
 
 We grouped each beer in to five categories based on their ounces for further analysis and plotted a bar chart. Looking at the bar chart we can see that the most common beer bottle size in most states is the Stubby which ranges from 11 to 12 ounces. Some states such as Indiana and Michigan seem to have more of the Long Neck/Heritage beer size which ranges from 12 to 22 ounces. In every state the least available beer bottle size seemed to be the Bomber which ranges from 22 to 32 ounces. This information can help guide future beer launches and what sizes to prioritize in what locations.
+
+
+hello
+
